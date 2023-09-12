@@ -2,5 +2,5 @@
 - 👀 I’m interested in working with data. Especially in learning to build marketing mix models. This is because I used to work as a performance marketing manager for many years.
 - 🌱 I started learning SQL and Panda's. With that I have already build a somewhat small and simple regression model.
 - 🤓 Completed 9 week Data Science Bootcamp improving my coding: Python, SQL, Pandas and statistical modeling like Scipy, Keras.
-- 💞️ I’m looking to collaborate on Data Analytical projects or Marketing Modeling projects. My expertise lies around e-commerce businesses. 
+- 💞️ Looking to collaborate on Data Analytical or Marketing Modeling projects. I have expertise in e-commerce businesses. 
 - 📫 How to reach me my email, guidoisdeman1@gmail.coom
