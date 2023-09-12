@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @data-Zee
 - 👀 I’m interested in working with data. Especially in learning to build marketing mix models. This is because I used to work as a performance marketing manager for many years.
 - 🌱 I started learning SQL and Panda's. With that I have already build a somewhat small and simple regression model.
-- 🤓 Then I completed a 9 weeks Data Science Bootcamp which helped me improve my coding skills like Python, SQL, Pandas and work better with statistical modeling like Scipy and Keras.
+- 🤓 Completed a 9 weeks Data Science Bootcamp to improve my coding with Python, SQL, Pandas and statistical modeling like Scipy and Keras.
 - 💞️ I’m looking to collaborate on Data Analytical projects or Marketing Modeling projects. My expertise lies around e-commerce businesses. 
 - 📫 How to reach me my email, guidoisdeman1@gmail.coom
