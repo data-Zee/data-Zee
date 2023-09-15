@@ -6,4 +6,4 @@
 - 📫 How to reach me my email, guidoisdeman1@gmail.com or checkout my [portfolio](https://narrow-bottom-6bf.notion.site/Portfolio-eabcf7ac42dd4ad0b0898cea927fd3ea) to see my projects.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://github.com/data-Zee/data-Zee/assets/74703223/0d87ffec-6114-4935-acea-aa3e566f0211" alt="python" width="40" height="40"/> </a> </p>
