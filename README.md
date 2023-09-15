@@ -5,7 +5,7 @@
 - 💞️ Looking to collaborate on Data Analytical or Marketing Modeling projects. 
 - 📫 How to reach me: Please check my LinkedIn below or you can checkout my [portfolio](https://narrow-bottom-6bf.notion.site/Portfolio-eabcf7ac42dd4ad0b0898cea927fd3ea).
 
-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guido-van-der-zee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guido-van-der-zee" height="30" width="40" /></a>
 </p>
