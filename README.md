@@ -1,4 +1,4 @@
-[![ReadmeCoverPicture](https://photos.google.com/photo/AF1QipOooKizdVITvedZO_Oj89vexW2JsR80_lDbgWqF)]([your GitHub link](https://github.com/data-Zee/data-Zee/))
+[![ReadmeCoverPicture]([https://photos.google.com/photo/AF1QipOooKizdVITvedZO_Oj89vexW2JsR80_lDbgWqF](https://photos.app.goo.gl/yDBgEar8oPPSex269))]([your GitHub link](https://github.com/data-Zee/data-Zee/))
 
 - 👋 Hi, I’m @data-Zee
 - 👀 I’m interested in working with data. Especially in learning to build marketing mix models. This is because I used to work as a performance marketing manager for many years.
